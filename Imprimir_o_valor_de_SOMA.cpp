@@ -8,10 +8,12 @@
 
 using namespace std;
 
-int main() {
-    int i = 13, SOMA = 0, K = 0; //i é o INDICE
+/*1) Observe o trecho de código abaixo: 
 
- 	while( K < i) //Faz a soma enquanto a variável "k" for menor que a variável "i"
+ 	int INDICE = 13, SOMA = 0, K = 0; 
+
+ 	enquanto K < INDICE faça 
+
 	{ 
 
 		K = K + 1; 
@@ -20,8 +22,8 @@ int main() {
 
 	} 
 
- 	cout << SOMA; //Imprime a soma
+ 	imprimir(SOMA); 
 
-  //"SOMA" é igual a 91
+  
 
-}
+Ao final do processamento, qual será o valor da variável SOMA? O valor da Soma */
